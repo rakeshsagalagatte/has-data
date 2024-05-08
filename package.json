@@ -1,9 +1,8 @@
 {
   "name": "@rakeshsagalagatte/has-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Objects been checked wheather it's undified or null or Empty",
   "author": "Rakesh S R ",
-  "private": true,
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rakeshsagalagatte"
