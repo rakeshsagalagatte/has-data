@@ -1,11 +1,11 @@
 {
-  "name": "has-data",
+  "name": "@rakeshsagalagatte/has-data",
   "version": "0.0.5",
   "description": "Objects been checked wheather it's undified or null or Empty",
   "author": "Rakesh S R ",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
   "repository": {
