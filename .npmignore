@@ -1,0 +1,7 @@
+# compiled output
+/src
+/node_modules
+/libs
+.env
+
+tsconfig.json

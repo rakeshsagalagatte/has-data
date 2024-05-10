@@ -1,11 +1,15 @@
 {
-  "name": "@rakeshsagalagatte/has-data",
-  "version": "0.0.2",
+  "name": "has-data",
+  "version": "0.0.5",
   "description": "Objects been checked wheather it's undified or null or Empty",
   "author": "Rakesh S R ",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@rakeshsagalagatte"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "url": "git+https://github.com/rakeshsagalagatte/has-data.git"
   },
   "files": [
     "dist"
@@ -62,10 +66,7 @@
     "testEnvironment": "node",
     "roots": [
       "<rootDir>/libs/"
-    ],
-    "moduleNameMapper": {
-      "^@lib/has-data(|/.*)$": "<rootDir>/libs/has-data/src/$1"
-    }
+    ]
   },
   "main": "dist/index.js",
   "directories": {
