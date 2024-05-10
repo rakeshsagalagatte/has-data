@@ -1,6 +1,6 @@
 {
   "name": "@rakeshsagalagatte/has-data",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Objects been checked wheather it's undified or null or Empty",
   "author": "Rakesh S R ",
   "license": "MIT",
